@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.springfox:springfox-swagger-ui:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger-ui/2.3.0/8dfc729962bc639e6001183b474a65e9d71b681f/springfox-swagger-ui-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger-ui/2.3.0/745d78fd5828d064130f3501121826f22999f163/springfox-swagger-ui-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

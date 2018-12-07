@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kafka-consumer-service-0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/docker/kafka-consumer-service-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

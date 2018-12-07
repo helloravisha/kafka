@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.springfox:springfox-spi:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spi/2.3.0/fd5f41eb0e0382d8b3dedb95685b54aa5b754e2d/springfox-spi-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spi/2.3.0/e3205ae9c398b71fd07ae680fbd364a051965d6f/springfox-spi-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
