@@ -13,7 +13,7 @@ public class KafkaConsumer {
     public void consume(String message) {
         System.out.println("Consumed message: " + message);
         Client client = Client.create();
-        FirebaseSdkJersey sdk = new FirebaseSdkJersey("https://starbucks-service.firebaseio.com/", "MfS1myB9wWfDZmWF6yGQZ8u9BzCZJSTkhknHfMTO", client);
+        FirebaseSdkJersey sdk = new FirebaseSdkJersey("https://starbucks-service.firebaseio.com/", "MfS1myB9wWfDZmWF6yGQZ8u9BzCSTkhknHfMTO", client);
 
         try {
             sdk.setValue("users",message);
